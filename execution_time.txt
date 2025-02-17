@@ -1,1 +1,1 @@
-Tiempo de ejecución: 10.97 minutos
+Tiempo de ejecución: 10.61 minutos
