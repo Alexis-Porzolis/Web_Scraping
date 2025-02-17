@@ -18,7 +18,7 @@ Este proyecto consta de dos scripts principales en Python que permiten obtener, 
 ✔ Guardar los datos estructurados en un archivo CSV.  
 ✔ Medir e imprimir el tiempo de ejecución.
 
-### `script_data_processing.py`
+### `script_data_processing.ipynb`
 
 ✔ Leer el archivo CSV generado por el script de scraping.  
 ✔ Realizar limpieza de datos, eliminando valores nulos.  
