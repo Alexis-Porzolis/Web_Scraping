@@ -58,7 +58,7 @@ Asegúrate de tener el **WebDriver correspondiente** instalado en tu sistema.
 📌 `extract_regions()` obtiene todas las regiones y ciudades disponibles en la plataforma.  
 📌 `extract_tv_guide()` extrae la programación de TV de cada ciudad y la almacena en un archivo CSV.
 
-### **2️⃣ Procesamiento y Visualización (`script_data_processing.py`)**
+### **2️⃣ Procesamiento y Visualización (`script_data_processing.ipynb`)**
 
 📌 Carga el archivo CSV en un DataFrame de Pandas.  
 📌 Realiza una limpieza eliminando valores nulos.  
