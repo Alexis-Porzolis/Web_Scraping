@@ -5,7 +5,7 @@
 Este proyecto consta de dos scripts principales en Python que permiten obtener, procesar y visualizar la guía de programación de TV del sitio web [9Now TV Guide](https://tvguide.9now.com.au/).
 
 1. **`script_web_scraping.py`**: Se encarga de realizar web scraping para extraer la programación de TV y guardarla en un archivo CSV.
-2. **`script_data_processing.py`**: Realiza la carga, limpieza, almacenamiento en SQLite y visualización de los datos extraídos.
+2. **`script_data_processing.ipynb`**: Realiza la carga, limpieza, almacenamiento en SQLite y visualización de los datos extraídos.
 
 ---
 
